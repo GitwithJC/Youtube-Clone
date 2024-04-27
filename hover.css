@@ -1,0 +1,47 @@
+.src-button:hover{
+    cursor: pointer;
+}
+.voice-button:hover{
+    cursor: pointer;
+    background-color: rgb(234, 231, 231);
+}
+.menu:hover{
+    cursor: pointer;
+    background-color: rgb(234, 231, 231);
+}
+.sidebar-link:hover{
+    cursor: pointer;
+    background-color: rgb(226, 222, 222);
+}
+.logo:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.voice-button:hover{
+    cursor: pointer;
+}
+.upload-pic:hover{
+    cursor: pointer;
+}
+.ytapp-pic:hover{
+    cursor: pointer;
+}
+.notify-pic:hover{
+    cursor: pointer;
+}
+.acc-pic:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.thumbnail:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.profile-pic:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.video-author:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}

@@ -1,0 +1,39 @@
+.logo{
+    height: 20px;
+}
+.thumbnail{
+    width: 100%;
+    border-radius: 10px;
+}
+.profile-pic{
+    border-radius: 30px;
+    width: 40px;
+}
+.src-pic{
+    height: 20px;
+    margin-top: 4px;
+}
+.voice-pic{
+    height: 24px;
+}
+.upload-pic{
+    height: 30px;
+    margin-left: 10px;
+
+}
+.ytapp-pic{
+    height: 30px;
+}
+.notify-pic{
+    height: 30px;
+}
+.acc-pic{
+    border-radius: 30px;
+    height: 32px;
+    margin-right: 20px;
+    
+}
+.sidebar-icons{
+    height: 30px;
+    margin-bottom: 5px;
+}
